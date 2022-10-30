@@ -50,6 +50,7 @@ function init() {
 
 
   function onClick() {
+    
     if (horn.value == "party-horn"){
       jsConfetti.addConfetti({
         confettiColors: [
